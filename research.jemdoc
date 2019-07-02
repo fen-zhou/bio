@@ -1,0 +1,117 @@
+# jemdoc: menu{MENU}{research.html}
+
+
+= Fen Zhou 
+
+~~~ 
+{}{img_left}{Fen2015.jpg}{Fen Zhou}{117}{146}{IMGLINKTARGET} 
+
+*Fen Zhou*, Ph.D, SMIEEE \n 
+Associate Professor, HDR \n 
+
+LISITE Lab, Institut Supérieur d'Electronique de Paris (ISEP) \n
+[http://lia.univ-avignon.fr LIA], [http://www.univ-avignon.fr Avignon University] (on leave since Sept. 2018)\n
+
+Issy-Les-Moulineaux, 92130, France \n
+
+Emails: fen.zhou *AT*\{isep, univ-avignon\}.fr \n
+Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
+
+~~~ 
+
+= Research Projects
+
+== Applications of Financial Supports for PhD students (PI in France)
+- Campus France Science without Border Scholarship for Elvis Pontes (01\/2014 - 01\/2015) 
+- Campus France Eiffel Scholarship \+ China Scholarship Council \+ Perdiguier-UAPV Scholarship for Min JU (09\/2014 - 01\/2018) 
+- Campus France Eiffel Scholarship \+ China Scholarship Council \+ Perdiguier-UAPV for Haitao Wu (09\/2015 - 10\/2018) 
+- Campus France Eiffel Scholarship for Weihua Wu (09\/2016 - 07\/2017) 
+- Campus France ProfasB\+ Scholarship for Omar Sami Oubbati(10\/2016 - 05\/2017) 
+- Campus France Eiffel Scholarship \+ China Scholarship Council for Cao Chen (09\/2017 - 09\/2020) 
+- Campus France Eiffel Scholarship for Jiabao Yu (09\/2018 - 07\/2019) 
+- Campus France Eiffel Scholarship for Yuanhao Liu (09\/2019 - 08\/2020)
+- CSC  Scholarship for Jianan Guo (09\/2019 - 08\/2023)
+
+== Campus France PHC Cai Yuanpei project: PS2N (06\/2019 - 06\/2021) 
+- Physical layer Security and Survivability in Communication Networks
+- Principle Investigator in France
+- Partner in China:  Linning Peng (Southeast University)
+- Bilateral sino-French research grant from Campus France 
+
+== International Collaboration Project with China: E-PENs (01\/2017 - 01\/2019) 
+- Energy-Efficient Routing and Protection in Elastic Optical Networks
+- Principle Investigator 
+- Research Grant from State Key Lab of Optical Networks at Shanghai Jiaotong University, China
+
+== Region Project ESTOC (10\/2014 - 10\/2017) 
+- Optimization for Electrical Vehicular Networks
+- Principle Investigators : Didier Josselin and Fen Zhou   
+- 3-Year Research Grant from PACA Region for the PhD thesis of Amine Ait Ouahmed 
+
+#== ANR Project IDEFIX (2013 - 2016) 
+#- Intelligent DEsign of Future mobile Internet for enhanced eXperience
+#- Participate as a researcher 
+#- Research Grant from French ANR
+
+== International Collaboration Project with China: SMILE (2013 - 2016) 
+- Supporting MultIcasting in mixed-LinE-rate optical networks
+- Principle Investigator 
+- Research Grant from State Key Lab of Optical Networks at Shanghai Jiaotong University, China
+
+== ESTOC (2014 - 2015) 
+- Multi-critera Optimization for Electrical Vehicular Networks
+- Principle Investigators : Didier Josselin and Fen Zhou 
+- Research Grant from LIA, University of Avignon
+
+== @Muse/InfoMuse (2013 - 2015) 
+- Recommendation system for personalized visit in Future Museums
+- Participate as a researcher
+- Research Grant from General Council of Vaucluse, Agorantic
+
+== PPP (2013 - 2014) 
+- P-cycle protection in Mixed Line Rate Optical Network
+- Principle Investigator: Fen Zhou
+- Research Grant from University of Avignon
+
+== MOTON (2013 - 2014) 
+- Multicast Optimization in Transparent Optical Networks with mixed line rates
+- Principle Investigators : Fen Zhou and Boris Detienne 
+- Research Grant from LIA, University of Avignon
+
+== FP7 CNG (2010 - 2012) 
+- Community Network Game
+- Participated as a post-doctoral fellow
+- Research Grant from European FP7
+
+== Zewall (2011 - 2012)
+- Collaborative TV Leveraging on Crowd Journalism
+- Participated as a post-doctoral fellow
+- Research Grant from French DGE
+
+#== China 973 Project (2005 - 2007)
+#- UAVs communication Network Simulation Platform
+#- Participated as a master \/ Ph.D student
+#- Research Grant from French DGA
+
+#== Collaborated PhD and Master Students
+#- Amine Ait Ouahmed:  Research Engineer 2013-present (co-advised with Didier Josselin, Optimization in Networks)   
+#- Elvis Pontes (University Saint Paulo, Brazil): visiting PhD student 2014-2015 (Network Security)
+#- Dinh  Danh Le (University of Montpellier II, France): visiting PhD student 2014 (Multicast in WDM networks)
+#- Fatima Zohra Bousbaa: visiting PhD student in 2013-2014 (VANET)
+#- Seddiki Nouredine (University Bechar, Algeria): visiting PhD student in 2013 (WSN) 
+#- Hakim Dafeur (University Tizi Ouzou, Algeria): visiting PhD student in 2013 (WSN)
+#- Mayeul Mathias: master Intern in  2014 (co-advised with Juan-Manuel Torres, Personized visit in Museums)
+#- Azeddine Cheref: master Intern in  2013 (co-advised with Boris Detienne, Multicast in MLR Optical Networks)
+#- Komitse Sena Atameklo: master Intern in 2013 (Resillient Video streaming in CDN)
+#- Florian Dransart: master student in 2013 (Video statistics in Youtube)
+#
+#== Master Student Projects
+#- P-cycle protection in MLR optical networks (2013-2014), University of Avignon
+#- Scalable video streaming in hybrid 4G/Ad-hoc Networks (2013-2014), University of Avignon
+#- Demon for minimizing interference of safety message diffusion in VANETs (2013-2014), University of Avignon
+#- Video porpularity statistic in Youtube (2013), University of Avignon
+#- Power-efficient safety message delivery in VANETs, (2012-2013), University of Avignon
+#- Resilient Video streaming in content delivery networks, (2012-2013), University of Avignon
+#- Optimal solution for multi-view P2P live streaming using rateless codes in MMOG (2011-2012), Telecom Bretagne
+#- Heuristic algorithms for multi-view P2P live streaming using rateless codes in MMOG, (2011-2012), Telecom Bretagne
+#- Distributed algorithm design and its convergence proof for  P2P live streaming systems, (2011), Telecom Bretagne

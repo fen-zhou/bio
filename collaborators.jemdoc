@@ -1,0 +1,138 @@
+# jemdoc: menu{MENU}{collaborators.html}
+
+
+= Fen Zhou 
+
+~~~ 
+{}{img_left}{Fen2015.jpg}{Fen Zhou}{117}{146}{IMGLINKTARGET} 
+
+*Fen Zhou*, Ph.D, SMIEEE \n 
+Associate Professor, HDR \n 
+
+LISITE Lab, Institut Supérieur d'Electronique de Paris (ISEP) \n
+[http://lia.univ-avignon.fr LIA], [http://www.univ-avignon.fr Avignon University] (on leave since Sept. 2018)\n
+
+Issy-Les-Moulineaux, 92130, France \n
+
+Emails: fen.zhou *AT*\{isep, univ-avignon\}.fr \n
+Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
+
+~~~ 
+
+= Collaborators
+
+== Current PhD Students
+-  Jiabao Yu (Sept. 2018-, Eiffel)
+-- PhD Registration at Southeast University 
+-- Enhancing Physical Layer Security in Optical Networks 
+-- Co-advised with Prof. Aiqun Hu (SEU)
+- Chuanxi Huang (Sept. 2018-, CSC)
+-- PhD Registration at Sorbonne University 
+-- Co-advised with Xun Zhang (MCF, ISEP)
+-- Localization system design based on Visible Light Communications (VLCs) 
+-  Cao Chen (Oct. 2017-2020, Eiffel+ CSC)
+-- PhD Registration at the Univ. of Avignon and Shanghai Jiaotong University 
+-- PLI-and-Security-Aware Routing and ProtectionS in Elastic Optical Networks 
+-- Co-advised with Prof. Shilin Xiao (SJTU)
+- Mayeul Mathias (Oct. 2014-, MESR + ANR)
+-- PhD Registration at the Univ. of Avignon 
+-- Co-advised with Juan-Manuel Torres (MCF, HDR) and Didier Josselin (DR CNRS)   
+-- Recommendation Systems for Personalized City Tours: Natural Language Processing and Routing Optimization 
+
+==  Past co-supervised PhD students and Visiting PhD students
+
+- Haitao Wu (Sept. 2015- Nov. 2018, Eiffel+CSC++Perdiguier)
+-- PhD degree of the Univ. of Avignon (France)
+-- Co-advised with Prof. Yaojun Chen (NJU) and Asso. Prof. Juan-Manuel Torres (MCF-HDR, UAPV)
+-- Approximation Algorithms Design and Analysis in Elastic Optical Networks (EONs)
+-- Now research engineer at Huawei Research, China
+
+- Amine Ait Ouahmed (Oct. 2014-Oct. 2018, PACA Region)
+-- PhD degree of the University of Avignon (France)
+-- Co-advised with Didier Josselin (DR CNRS, UAPV)   
+-- Multi-Criteria Optimization for Car Sharing systems with Electric Vehicles
+-- Now research engineer at INRIA Sophia Antipolis, France
+
+- Fatima Bousbaa (Oct. 2012-2018, Mobility Scholarship of Laghouat University)
+-- PhD Registration at the Univ. Laghouat (Algeria)
+-- Co-advised with Mohamed Bachir Yagoubi (Prof, Univ. Laghouat, Algeria)
+-- Geocast/multicast routing of alert messages in Vehicular Ad-Hoc Networks 
+-- Now Associate Professor at Univ. Laghouat, Algeria
+
+-  Omar Sami Oubbati (Oct. 2016- Feb. 2018, Profas B+)
+-- PhD degree of the Univ. Laghouat (Algeria) 
+-- Co-advised with Mohamed Bachir Yagoubi (Prof, Univ. Laghouat, Algeria), and Abderrahmane Lakas (UAE)
+-- UAV-Assisted Routing for VANETs  
+-- Now Associate Professor at Univ. Laghouat, Algeria
+
+- Min Ju (Sept. 2014- Jan. 2018, Eiffel+CSC+Perdiguier)
+-- PhD. degree of the University of Avignon (France)
+-- Co-advised with Prof. Shilin Xiao (SJTU) and Asso. Prof. Juan-Manuel Torres (MCF-HDR, UAPV)
+-- Routing and Protection in Elastic Optical Networks
+-- Now Post-doc at the I3S labo of the University of Nice, France
+
+-  Weihua Wu (Sept. 2016- Dec. 2017, Eiffel)
+-- PhD. degree of the XiDian University (China)
+-- Co-advised with Qinghai Yang (Prof, XiDian Univ)
+-- Resource Allocation in VLC/RF Networks
+-- Now Assistant professor at XiDian University, XiAn, China
+
+- Anderson Silva (Jan. 2013- Dec. 2016, )
+-- PhD. degree of the University of Sao Paulo (Brazil)
+-- Co-advised with Sergio Takeo Kofugi (Prof, Univ. Sao Paulo, Brazil)
+-- An Architecture to Grouping Security Controls in Information Technology Environments Based on Unrestricted Cooperative Bargains 
+-- Now Associate Professor at Universidade Paulista (UNIP) and Instituto de Pesquisas
+Tecnologicas (IPT), São Paulo, Brazil
+
+- Elvis Pontes (Jan. 2013- Nov. 2015, Campus France Science Without Border)
+-- Co-advised with Sergio Takeo Kofugi (Prof, Univ. Sao Paulo, Brazil)
+-- Security in Mobile Ad-Hoc Networks (MANETs)
+-- Died on Nov. 2015
+
+- Jiayi Liu (Oct. 2010- Nov. 2013, FP7 CNG)
+-- PhD. degree of Telecom Bretagne (France)
+-- Co-advised with Gwendal Simon and Antoine Beugnard (Telecom Bretagne)
+-- Multiple Live Video Delivery in Underprovisioned Networks
+-- Now Associate Professor at XiDian University, China  
+
+- Dinh  Danh Le (visiting student from University of Montpellier, France): March 2014 (Multicast in WDM networks)
+-- Post-doc at  Orange Labs (FT) until 2016
+-- Now Post-doc at  Dublin City University, Ireland 
+- Seddiki Nouredine (visiting student from University Bechar, Algeria): Nov.-Dec. 2013 (WSN) 
+- Hakim Dafeur (visiting student from University Tizi Ouzou, Algeria): Jun. 2013 (WSN)
+
+== Research Enginners and Master 2 Research Interns
+- Melaz Laifaoui (Master 2 Intern, Feb.-Sept. 2016): Optimization in Transportation networks and Optical Networks
+-- Co-advised with Rosa Figueiredo
+
+- LuLu Yang (Research Master Student at USTC China, Sept. 2013- Mar. 2016): Leveraging Light-Forest with Rateless Network Coding to Design Efficient All-Optical Multicast Schemes for Elastic Optical Networks
+-- Co-advised with Zuqing Zhu (Prof. USTC, China)
+- Amine Ait Ouahmed (Research Engineer, Nov. 2013- Sept. 2014): Optimization in networks
+-- Co-advised with Didier Josselin
+-- Now PhD student at UAPV   
+- Mayeul Mathias (Master 2 Intern, Feb.-Sept. 2014):  Personalized visit tour optimization for Museums
+-- Co-advised with Juan-Manuel Torres
+-- Now PhD student at UAPV
+- Azeddine Cheref (Master 2 Intern, Apr.-Sept. 2013): Multicast in MLR Optical Networks
+-- Co-advised with Boris Detienne
+-- Now PhD student at the University of Tour
+- Florian Dransart (Master 2 Intern, Jan.-May 2013): Video statistics in Youtube
+-- Now Software engeneer at Toulouse
+- Komitse Sena Atameklo (Master 1 Intern, Jun.-Jul. 2013): Resillient Video streaming in CDN
+-- Now at University of Reims
+
+== Academic Visitors
+- Prof. Yaojun Chen, NJU, China,  Jan. 2018.
+- Prof. Zuqing Zhu, USTC, China,  May 2015.
+- Associate Prof. Rugui Yao, NPU, China, Oct. 2014. 
+
+== Master 1 Student Projects
+- P-cycle protection in MLR optical networks (2013-2014), University of Avignon
+- Scalable video streaming in hybrid 4G/Ad-hoc Networks (2013-2014), University of Avignon
+- Demon for minimizing interference of safety message diffusion in VANETs (2013-2014), University of Avignon
+- Video porpularity statistic in Youtube (2013), University of Avignon
+- Power-efficient safety message delivery in VANETs, (2012-2013), University of Avignon
+- Resilient Video streaming in content delivery networks, (2012-2013), University of Avignon
+- Optimal solution for multi-view P2P live streaming using rateless codes in MMOG (2011-2012), Telecom Bretagne
+- Heuristic algorithms for multi-view P2P live streaming using rateless codes in MMOG, (2011-2012), Telecom Bretagne
+- Distributed algorithm design and its convergence proof for  P2P live streaming systems, (2011), Telecom Bretagne
