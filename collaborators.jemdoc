@@ -22,9 +22,17 @@ Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
 = Collaborators
 
 == Current PhD Students
--  Jiabao Yu (Sept. 2018-, Eiffel)
+-  Yuanhao Liu (Sept. 2019-, Eiffel)
+-- PhD Registration at XiDian University 
+-- Disaster Resilience for Inter-DataCenter Networks
+-- Co-advised with Prof. Tao Shang (XDU), and Juan-Manuel Torres (MCF, HDR) 
+-  Yuexiu Xing (Sept. 2019-, PHC Cai Yuanpei)
 -- PhD Registration at Southeast University 
--- Enhancing Physical Layer Security in Optical Networks 
+-- Security for IoTs (Intelligent Cane)
+-- Co-advised with Prof. Aiqun Hu (SEU), and Ting Wang (ESIEE Paris)
+-  Jiabao Yu (Sept. 2018-, Eiffel and PHC Cai Yuanpei)
+-- PhD Registration at Southeast University 
+-- Enhancing Physical Layer Security in Communication Networks 
 -- Co-advised with Prof. Aiqun Hu (SEU)
 - Chuanxi Huang (Sept. 2018-, CSC)
 -- PhD Registration at Sorbonne University 
@@ -32,12 +40,12 @@ Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
 -- Localization system design based on Visible Light Communications (VLCs) 
 -  Cao Chen (Oct. 2017-2020, Eiffel+ CSC)
 -- PhD Registration at the Univ. of Avignon and Shanghai Jiaotong University 
--- PLI-and-Security-Aware Routing and ProtectionS in Elastic Optical Networks 
+-- PLI-and-Security-Aware Routing and ProtectionS in Flexiable Optical Networks 
 -- Co-advised with Prof. Shilin Xiao (SJTU)
-- Mayeul Mathias (Oct. 2014-, MESR + ANR)
--- PhD Registration at the Univ. of Avignon 
--- Co-advised with Juan-Manuel Torres (MCF, HDR) and Didier Josselin (DR CNRS)   
--- Recommendation Systems for Personalized City Tours: Natural Language Processing and Routing Optimization 
+##- Mayeul Mathias (Oct. 2014-, MESR + ANR)
+##-- PhD Registration at the Univ. of Avignon 
+##-- Co-advised with Juan-Manuel Torres (MCF, HDR) and Didier Josselin (DR CNRS)   
+##-- Recommendation Systems for Personalized City Tours: Natural Language Processing and Routing Optimization 
 
 ==  Past co-supervised PhD students and Visiting PhD students
 
@@ -95,6 +103,9 @@ Tecnologicas (IPT), São Paulo, Brazil
 -- Multiple Live Video Delivery in Underprovisioned Networks
 -- Now Associate Professor at XiDian University, China  
 
+
+- Houssem Eddine Hadji (visiting student from University of Badji Mokhtar, Algeria): Oct-Nov 2014, Dec. 2019 (Resouce Allocation optimization)
+-- Now Associate Professor at University of Badji Mokhtar, Algeria
 - Dinh  Danh Le (visiting student from University of Montpellier, France): March 2014 (Multicast in WDM networks)
 -- Post-doc at  Orange Labs (FT) until 2016
 -- Now Post-doc at  Dublin City University, Ireland 
@@ -102,9 +113,9 @@ Tecnologicas (IPT), São Paulo, Brazil
 - Hakim Dafeur (visiting student from University Tizi Ouzou, Algeria): Jun. 2013 (WSN)
 
 == Research Enginners and Master 2 Research Interns
+- Sixu Cai (Master 2 Intern, Feb.-Sept. 2020): Disaster-Resilience for Network function virtualization and Inter-Datacenter Networks
 - Melaz Laifaoui (Master 2 Intern, Feb.-Sept. 2016): Optimization in Transportation networks and Optical Networks
 -- Co-advised with Rosa Figueiredo
-
 - LuLu Yang (Research Master Student at USTC China, Sept. 2013- Mar. 2016): Leveraging Light-Forest with Rateless Network Coding to Design Efficient All-Optical Multicast Schemes for Elastic Optical Networks
 -- Co-advised with Zuqing Zhu (Prof. USTC, China)
 - Amine Ait Ouahmed (Research Engineer, Nov. 2013- Sept. 2014): Optimization in networks
@@ -122,7 +133,8 @@ Tecnologicas (IPT), São Paulo, Brazil
 -- Now at University of Reims
 
 == Academic Visitors
-- Prof. Yaojun Chen, NJU, China,  Jan. 2018.
+- Dr. Guyue Li, Southeast University, China,  Dec. 2019 - Feb. 2020.
+- Prof. Yaojun Chen, Nanjing University, China,  Jan. - Feb. 2018.
 - Prof. Zuqing Zhu, USTC, China,  May 2015.
 - Associate Prof. Rugui Yao, NPU, China, Oct. 2014. 
 
