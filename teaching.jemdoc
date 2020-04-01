@@ -9,8 +9,8 @@
 *Fen Zhou*, Ph.D, SMIEEE \n 
 Associate Professor, HDR \n 
 
-LISITE Lab, Institut Supérieur d'Electronique de Paris (ISEP) \n
-[http://lia.univ-avignon.fr LIA], [http://www.univ-avignon.fr Avignon University] (on leave since Sept. 2018)\n
+Institut Supérieur d'Electronique de Paris (ISEP) \n
+[http://lia.univ-avignon.fr LIA Lab], [http://www.univ-avignon.fr Avignon University] (on leave since Sept. 2018)\n
 
 Issy-Les-Moulineaux, 92130, France \n
 
@@ -23,38 +23,57 @@ Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
 = *!To be updated!*
 
 = Administrative Duties
--- Responsible of Master on Networking (CERI): Sept. 2016-present
--- Co-responsible of research axis  ''Mobility, Intelligent Transport and ICT for Culture'' of FR Agorantic: 2013-present
--- Responsible for Computer Ressources of CERI : Sept. 2014- present (work equivalent to 20h TD/year)
--- Responsible for CISCO Academy Center of UAPV: Sept. 2014- Sept. 2015
+== ISEP Paris (2018-present)
+-- Responsible of Master of Science on Cybersecurity (SecNumEdu): Feb. 2020-present
+-- Responsible of 4 teaching units (in charge of the definition of the teaching program, the recruitement of industrial and academic professors, as well as the networks equipements): network security, routing and switching, convergent services and technologies, and advanced routing and network architectures, 2018-present 
+-- ISEP Engineer Diplome Jury: 2018-present 
+-- Tutor for Alternance and final-year project: 2018-present  
+
+== CERI, University of Avignon (2012-2018) 
+-- Responsible of Master on RISM (M1+M2, 60 students/year): Sept. 2016- Aug. 2018
+-- Co-responsible of research axis  ''Mobility, Intelligent Transport and ICT for Culture'' of CNRS FR Agorantic: 2013-2017
+-- Responsible for computer science teaching Labs in CERI (in charge of 12 TP labs, 1 network lab, 1 CISCO lab and 1 electronic lab) : Sept. 2014- Aug. 2016 (work equivalent to 20h TD/year)
+-- Responsible for CISCO Academy Center of UAPV (in charge of CISCO equipements and Netcad platform, CCNA certification, as well as seminar): Sept. 2014- Sept. 2015
+-- Nominated Member of Teaching Council of CERI (CP) 2016-2018
+-- Elected Member of Scientific Council of LIA Lab (CS) 2016-2018
+-- CISCO Certified Instructor: CCNA-1, CCNA-2, CCNA-3  2013-present
+-- Tutor for Alternance and Master Internships: 2013-2018  
+-- Tutor for master projects: 2012-2018   
+-- Master and Bachelor Diplome Jury: 2012-2018
 
 = Teaching Services
+
+== ISEP Paris, University of Science and Technology in Hanoi, Vietnam (2018-present=-N) 
+-- Convergent services and technologies (3rd year Engineer students: 18h CM, 6h project): VOIP, video streaming, DASH, QoE,  Multicast algorithms and protocols, 360 Video  project  
+-- Network security (2nd year Engineer studetns: 9hCM, 6hTP, 6h project): security and surviability in optical networks, security in VANET and IoTs, access control in CISCO routers 
+-- Routing and Switching (2nd year Engineer studetns: 9hCM, 6h project): Routing concepts and protocoles: RIP/RIP2, IGRP, OSPF,
+-- Optical network architectures, routing, traffic estimation and protection (3rd year Engineer students: 9h CM) 
+-- CISCO CCNA-1 (24h TP)
+-- APP on Telecommunications (2 groups/year, 36 students/groupe, 90h TP)
+-- Final-year projects on security in optical networks, and NFV/SDN
+
 == USTH, University of Science and Technology in Hanoi, Vietnam (2015) 
 -- Multimedia Networks and Quality of Service (QoS) (2nd year master students): (10h CM, 25h TP) 
 -- Master student project: 2015
 -- Master defence Jury: 2015 
 
-== CERI, University of Avignon, France (2012 - present = -N) 
-- Administrative Services
--- CISCO Certified Instructor: CCNA-1, CCNA-2, CCNA-3\widetilde{\widetilde{}} 
--- Tutor for Alternance and Master Internships: 2013-present  
--- Tutor for master projects: 2012-present   
--- Master and Bachelor Jury: 2012-present
+== CERI, University of Avignon, France (2018 - 2012 = N) 
 
 - Courses
+-- CISCO Certified Instructor: CCNA-1, CCNA-2, CCNA-3 
 -- Multimedia Networks (2nd year master students): (30h CM, 60h TD)x N 
 -- Traffic Estimation and Protection in Optical Networks: (1st year master students): (9h CM, 18h TP)x N 
 -- Socket Programming (1st year master student):  12h CM
 -- Network Protocoles (3rd year undergraduate students): (15h CM, 12h TD, 12h TP)x N 
 -- Introduction to networks (2nd year undergraduate students): (6h CM)x N 
--- CISCO CCNA-1 (18h TP)x N
+-- CISCO CCNA-1 and CCNA-3 (18h TP)x N
 -- Software Engineering (2nd year undergraduate students): (18h TP)x N 
 
 == Telecom Bretagne(ENST-B), France (2010 - 2012)
-- Network Security (2nd year engineering students):  12h TP
-- Graph Theory (2nd year engineering students): 30h TP
-- Mastery of Digital Environment (1st year engineering students): 3h TP
-- Bit Alerting protocol (2nd year engineering students): 3h TP
+- Network Security (2nd year engineering students):  12hx2 TP
+- Graph Theory (2nd year engineering students): 30hx2 TP
+- Mastery of Digital Environment (1st year engineering students): 3hx2 TP
+- Bit Alerting protocol (2nd year engineering students): 3hx2 TP
 
 
 == University of Rennes 1, France (2008 - 2010)
