@@ -10,7 +10,7 @@
 Associate Professor, HDR \n 
 
 LISITE Lab, Institut Supérieur d'Electronique de Paris (ISEP) \n
-[http://lia.univ-avignon.fr LIA], [http://www.univ-avignon.fr Avignon University] (on leave since Sept. 2018)\n
+[http://lia.univ-avignon.fr LIA Lab], [http://www.univ-avignon.fr Avignon University] (on leave since Sept. 2018)\n
 
 Issy-Les-Moulineaux, 92130, France \n
 
@@ -25,6 +25,9 @@ Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
 . Miklos Molnar, *Fen Zhou*, Bernard Cousin. Section II, Chapter 8: [http://www.igi-global.com/book/optical-access-networks-advanced-photonics/819 Multicast Routing in Optical Access Networks. Optical Access Networks and Advanced Photonics: Technologies and Deployment Strategies], IGI Press, July, 2009. ISBN: 978-1-60566-707-2.  
 
 == International Journals
+
+.  Ikram Bouras, Rosa Figueiredo, Michael Poss, *Fen Zhou*. [https://link.springer.com/article/10.1007/s11590-019-01505-x Minimizing energy and link utilization in ISP backbone networks with multi-path routing: a bi-level approach]. Optimization Letters 14(1): 209-227, 2020.
+
 .  Ikram Bouras, Rosa Figueiredo, Michael Poss, *Fen Zhou*. [https://www.sciencedirect.com/science/article/pii/S0305054819300905 On Two New Formulations for the Fixed Charge Network Design Problem with Shortest Path Constraints]. Elsevier Computers & Operations Research, pp1-31, Apr. 2019.
 
 .  Haitao Wu, *Fen Zhou*, Zuqing Zhu and Yaojun Chen. [https://ieeexplore.ieee.org/document/8573873 Analysis Framework of RSA Algorithms in Elastic Optical Rings]. IEEE/OSA Journal of Lightwave Technology, 37(4): 1113-1122, Feb. 2019.
@@ -81,11 +84,13 @@ Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
    
 == International Conferences
 
-.  Qian Lv, Jing Zhu, Fen Zhou, Zuqing Zhu. Network Planning with Bilevel Optimization to Address Attacks to Physical Infrastructure of SDN. The IEEE International Conference on Communication (ICC'20), pp1-6, Ireland, June. 2020. \\
+.  Qian Lv, Jing Zhu, Fen Zhou, Zuqing Zhu. Network Planning with Bilevel Optimization to Address Attacks to Physical Infrastructure of SDN. The IEEE International Conference on Communication (ICC'20), pp1-6, Ireland, June. 2020. 
 
-.  Man Song, Jing Zhu, Fen Zhou, Zuqing Zhu. On Security-aware Multilayer Planning for IP-over-Optical Networks with OTN Encryption. The IEEE International Conference on Communication (ICC'20), pp1-6, Ireland, June. 2020. \\
+.  Man Song, Jing Zhu, Fen Zhou, Zuqing Zhu. On Security-aware Multilayer Planning for IP-over-Optical Networks with OTN Encryption. The IEEE International Conference on Communication (ICC'20), pp1-6, Ireland, June. 2020. 
 
-.  Chuanxi Huang, Xun Zhang, Fen Zhou, Zhan Wang, Lina Shi. NLOS-Aware VLC-based Indoor Localization: Algorithm Design and Experimental Validation. The IEEE IEEE Wireless Communications and Networking Conference  (WCNC’20), pp1-7, Korea, Apr. 2020. \\
+.  Cao Chen, Fen Zhou, Yuanhao Liu, Shilin Xiao. Channel Frequency Optimization in Optical Networks Based on Gaussian Noise Model. The 24th IFIP International Conference on Optical Network Design and Modelling (ONDM'20), pp1-6, Spain, May. 2020. 
+
+.  Chuanxi Huang, Xun Zhang, Fen Zhou, Zhan Wang, Lina Shi. NLOS-Aware VLC-based Indoor Localization: Algorithm Design and Experimental Validation. The IEEE Wireless Communications and Networking Conference  (WCNC’20), pp1-7, Korea, Apr. 2020.
 
 .  Yuexiu Xing,  Aiqun Hu, Jiabao Yu, Guyue Li, Linning Peng, Fen Zhou. A Robust Radio Frequency Fingerprint Identification Scheme for LFM Pulse Radars. The  15th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob'19), pp1-6, Spain, Oct. 2019.
 
@@ -199,5 +204,7 @@ Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
  
 == Thesis :
 . Fen Zhou. [hdr.pdf Optimization of Routing and Resource Allocation in Communication Networks]. HDR, University of Avignon, September, 2018.
+
 . Fen Zhou. [http://tel.archives-ouvertes.fr/tel-00541116/en/ Routage multicast tout optique dans les r\'eseaux WDM \/ All-Optical Multicast Routing in Wavelength Routed WDM Networks]. Ph.D dissertation, IRISA \/ INSA de Rennes, September, 2010.
+
 . Fen Zhou. [http://cdmd.cnki.com.cn/Article/CDMD-10699-2007058467.htm Mobility Management in UAV's Communications Networks]. Master thesis, Northwestern Polytechnic University, Xi'An China, April, 2007.
