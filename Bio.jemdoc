@@ -1,20 +1,18 @@
 # jemdoc: menu{MENU}{Bio.html} 
 
+
 = Fen Zhou 
 
 ~~~ 
-{}{img_left}{Fen2015.jpg}{Fen Zhou}{117}{146}{IMGLINKTARGET} 
+{}{img_left}{Fen2020.jpg}{Fen Zhou}{110}{146}{IMGLINKTARGET} 
+*Fen Zhou*, Ph.D, HDR  \n 
+Full Professor, SMIEEE \n 
 
-*Fen Zhou*, Ph.D, SMIEEE \n 
-Associate Professor, HDR \n 
+IMT Lille Douai \n
+Institut Mines-Télécom, France \n
 
-LISITE Lab, Institut Supérieur d'Electronique de Paris (ISEP) \n
-[http://lia.univ-avignon.fr LIA], [http://www.univ-avignon.fr Avignon University] (on leave since Sept. 2018)\n
-
-Issy-Les-Moulineaux, 92130, France \n
-
-Emails: fen.zhou *AT*\{isep, univ-avignon\}.fr \n
-Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
+Email: fen.zhou *AT*\{imt-lille-douai\}.fr \n
+Tel: +33 (0)3 20 43 xx xx;  Fax: +33 (0)3 20 43 00 00\n
 
 ~~~ 
 
@@ -26,11 +24,9 @@ Tel: +33 (0)1 49 54 52 40;  Fax: +33 (0)1 49 54 52 01\n
 
 == Bio. 
 ~~~ 
-Since September 2018, Fen Zhou is working as an Associate Professor at the Institut Superieur d'Electronique de Paris (on-leave from the Avignon University), France. Before that, he has been an Associate Professor at the LIA lab of the 
-Avignon University, France from 2012 to 2018. He obtained the HDR from Avignon University in 2018 and his PhD from INSA of Rennes in 2010. His 
+Fen Zhou is a Full Professor at IMT Lille Douai, Institut Mines-Télécom, France. Prior to that, he was an Associate Professor  at the LIA lab of the Avignon University (France) from 2012 to 2018 and then at Institut Superieur d'Electronique de Paris (ISEP) until 08/2020. He obtained the HDR from Avignon University in 2018 and his PhD from INSA of Rennes in 2010. His 
 Ph.D thesis was jointly supervised by Prof. [http://www.irisa.fr/prive/bcousin/personal-info.html Bernard Cousin] and Prof. [http://www.lirmm.fr/~molnar/MMang.html Miklos 
-Molnar]. Between 2010 and 2012, he was with the computer science department of IMT Atlantique (ex Telecom Bretagne) as a post-doctoral fellow, where he worked on the European FP7 CNG project and 
-French Zewall project. \n \n
+Molnar]. Between 2010 and 2012, he was with the computer science department of IMT Atlantique (ex Telecom Bretagne) as a post-doc. In the past ten years, he has cordinated or co-cordinated several research projets in the national or international levels, such as PHC Cai Yuanpei, Campus France Eiffel Scholarship, Science Sans Frontiers, Campus France Profas B+,  PACA Regional project, LIA lab project, Open project of Shanghai Jiaotong University. He has been also involed in the European FP7 CNG project, Zewall project, Vaucluse @muse project. 
 
 Dr. Zhou is a Senior Member of IEEE. He has served as a TPC Co-chair, Symposium Co-chair, Publicity Co-chairs, Local Organization Chair, and Session Chair in several International Conferences (IEEE BMSB'20, IEEE ICNC'18, IEEE WCSP'14, IEEE Wimob'15/19, NetgCOOP'16, IEEE MovNet'17, IEEE Globecom'13, IEEE Mascots'19 ect.). He has also served on the program committees for several international conferences such as IEEE INFOCOM, IEEE GLOBECOM, IEEE ONDM, and IEEE IWCMC. From
 Sept. 2016, he is awarded the French Research Bonus (PEDR) for a period of four years.
@@ -47,7 +43,7 @@ Sept. 2016, he is awarded the French Research Bonus (PEDR) for a period of four 
 - Integer Linear Program (ILP) modeling, and heuristics for network optimization problems
 
 == Responsibilities and Recruitment Committees:
-- Feb. 2020-*: Responsible of Master of Science on ''Cybersecurity Architecture and Intergration'', ISEP Paris  
+- Feb.-Aug. 2020: Responsible of Master of Science on ''Cybersecurity Architecture and Intergration'', ISEP Paris  
 - Sept 2016 - Aug. 2018: Responsible of Master on Networking (Responsable Master Specialité RISM, CERI), University of Avignon
 - 2013-2017: Co-responsible of research axis ''Mobility, Intelligent Transport and ICT for Culture'' in CNRS FR3621 Agorantic
 - 2018: Recruitment Committee of ATER on Computer Science, University of Avignon, (Avignon, Jun. 2018)
@@ -66,6 +62,7 @@ Sept. 2016, he is awarded the French Research Bonus (PEDR) for a period of four 
 - Huong Nguyen-Minh, University of Avignon (France), Sept. 2016 (Role: *examiner*)
 
 == Conference Organizations: 
+- Session Chair IFIP Networking 2020  
 - Technical Program Co-Chair and Publication Chair of IEEE BMSB 2020 (Paris) 
 - Publicity Co-Chair of IEEE Wimob 2015 and 2019 
 - Session Chair for IEEE Mascots 2019 
@@ -82,7 +79,9 @@ AHSN-6 Session
 - Chair and organizer for the IWON workshop in conjunction with IEEE ICUMT 2009 (merged to the main conference)
 
 == Conference TPC Member (selected): 
-- 2020: IFIP Networking, IEEE ICC, IEEE Globecom, IEEE HSPR, IEEE ONDM, IEEE ISCC  
+
+- 2021: IEEE Infocom, IEEE ICC
+- 2020: IFIP Networking, IEEE ICC, IEEE Globecom, IEEE HSPR, IEEE ONDM, IEEE ISCC, IEEE Wimob
 - 2019: IEEE ICC, IEEE Globecom, IEEE ICCCN, IEEE HSPR, IEEE ONDM, IEEE ISCC
 - 2018: IEEE ICC, IEEE Globecom, IEEE IWCMC, IEEE ONDM, IEEE Wireless Days
 - 2017: IEEE INFOCOM, IEEE Globecom, IEEE ICNC, IEEE Wireless Days, Optics, IEEE ISCC, IEEE ONDM, IEEE HPSR, IEEE IWCMC, IEEE MOWNet, 
@@ -93,6 +92,8 @@ AHSN-6 Session
 - 2009: IEEE ICUMT 
 
 - Journals: 
+-- IEEE Transactions on Information Forensics \& Security
+-- IEEE Transactions on Wireless Communications
 -- IEEE Transactions on Wireless Communications
 -- IEEE Transactions on Mobile Computing
 -- IEEE Communications Magazine
@@ -103,6 +104,7 @@ AHSN-6 Session
 -- IEEE Transaction on Parallel and Distributed Systems
 -- IEEE Transactions on Dependable and Secure Computing
 -- IEEE Communications Letters
+-- IEEE Transactions on Multimedia 
 -- Springer Telecommunications Systems
 -- Wiley International Journal of Ad Hoc and Ubiquitous Computing
 -- Wiley Wireless Communications and Mobile Computing
