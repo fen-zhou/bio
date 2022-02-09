@@ -8,16 +8,21 @@
 *Fen Zhou*, Ph.D, HDR  \n 
 Full Professor, SMIEEE \n 
 
-IMT Lille Douai \n
+IMT Nord Europe \n
 Institut Mines-Télécom, France\n 
 
-Email: fen.zhou *AT*\{imt-lille-douai}.fr \n
+Email: fen.zhou *AT*\{imt-nord-europe}.fr \n
 Tel: +33 (0)3 20 43 64 43;  Fax: +33 (0)3 20 33 55 77
 ~~~ 
 
 = Collaborators
 
 == Current PhD Students
+-  Mohamed Madani (Feb. 2022 -, Beyond 5G project (BPI France, Plan de relance))
+-- PhD Registration at IMT Nord Europe / University of Lille 
+-- Resilient and Secure Service Function Chaining (SFC) for next generation mobile networks 
+-- Co-advising with Prof. Ahmed Meddahi (PR, IMT NE)
+
 -  Yuanhao Liu (Sept. 2019-2022, Campus France Eiffel   \+ CSC)
 -- PhD Registration at XiDian University and University of Avignon (UAPV)
 -- Disaster Prediction and Resilience for Inter-DataCenter Networks
@@ -29,10 +34,7 @@ Tel: +33 (0)3 20 43 64 43;  Fax: +33 (0)3 20 33 55 77
 -- Energy Efficency and Mobility  in Unmanned Aerial Ad-hoc Network.
 -- Co-advising with Prof. Djallel Eddine Boubiche (Univ. Batna2)
 
--  Cao Chen (Oct. 2017- Jun. 2021, Campus France Eiffel  \+ CSC  \+ UAPV Special Covid PhD contract)
--- PhD Registration at the Univ. of Avignon (UAPV) and Shanghai Jiaotong University (SJTU)
--- PLI-and-Security-Aware Routing and Protections in Flexiable Optical Networks 
--- Co-advising with Prof. Shilin Xiao (SJTU)
+
 
 
 #- Chuanxi Huang (Sept. 2018-, CSC)
@@ -41,6 +43,10 @@ Tel: +33 (0)3 20 43 64 43;  Fax: +33 (0)3 20 33 55 77
 #-- Localization system design based on Visible Light Communications (VLCs) 
 
 ==  Past co-supervised PhD students and Visiting PhD students
+-  Cao Chen (Oct. 2017- Oct. 2021, Campus France Eiffel  \+ CSC  \+ UAPV Special Covid PhD contract)
+-- PhD degree of  the Univ. of Avignon (France)
+-- PLI-and-Security-Aware Routing and Spectrum Assignment in Flexiable Optical Networks 
+-- Co-advising with Prof. Shilin Xiao (SJTU)
 
 - Mayeul Mathias (Oct. 2014- Jan. 2021, MESR + ANR)
 -- PhD degree of the Univ. of Avignon (France)
@@ -92,7 +98,8 @@ Tel: +33 (0)3 20 43 64 43;  Fax: +33 (0)3 20 33 55 77
 -- Co-advising with Prof. Shilin Xiao (SJTU) and Asso. Prof. Juan-Manuel Torres (MCF-HDR, UAPV)
 -- Routing and Protection in Elastic Optical Networks
 -- (2018-2019) Post-doc at the I3S lab of the University of Nice, France
--- Now permanent researcher at Huawei Wireless Research Center, Shanghai, China
+-- (2019-2020)) permanent researcher at Huawei Wireless Research Center, Shanghai, China
+-- (2021-) Assistant professor Nanjing Audit University, Nanjing, China
 
 -  Weihua Wu (Sept. 2016- Dec. 2017, Campus France Eiffel Scholarship)
 -- PhD. degree of the XiDian University (China)
@@ -129,7 +136,11 @@ Tecnologicas (IPT), Sao Paulo, Brazil
 
 == Research Enginners and Master 2 Research Interns
 
+- Lounes Meddahi  (L3 Research Intern at IMT Nord Europe, Jun.-Aug. 2022): Blockchain
+-- Co-advised with Ahmed Meddahi
+
 - Issam Sanjakdar  (Master 2 Intern at IMT Lille Douai, Apr.-Sept. 2021): Secure and resilient Network function Chainning 
+-- Co-advised with Ahmed Meddahi
 
 
 - Sixu Cai (Master 2 Intern at ISEP, Feb.-Sept. 2020): Disaster-Resilience for Network function virtualization and Inter-Datacenter Networks
