@@ -20,7 +20,7 @@ Tel: +33 (0)3 20 43 64 43;  Fax: +33 (0)3 20 33 55 77
 == Current PhD Students
 -  Mohamed Madani (Feb. 2022 -, Beyond 5G project (BPI France, Plan de relance))
 -- PhD Registration at IMT Nord Europe / University of Lille 
--- Resilient and Secure Service Function Chaining (SFC) for next generation mobile networks 
+-- Resilient Service Function Chaining (SFC) for next generation mobile networks 
 -- Co-advising with Prof. Ahmed Meddahi (PR, IMT NE)
 
 -  Yuanhao Liu (Sept. 2019-2022, Campus France Eiffel   \+ CSC)
@@ -45,7 +45,7 @@ Tel: +33 (0)3 20 43 64 43;  Fax: +33 (0)3 20 33 55 77
 ==  Past co-supervised PhD students and Visiting PhD students
 -  Cao Chen (Oct. 2017- Oct. 2021, Campus France Eiffel  \+ CSC  \+ UAPV Special Covid PhD contract)
 -- PhD degree of  the Univ. of Avignon (France)
--- PLI-and-Security-Aware Routing and Spectrum Assignment in Flexiable Optical Networks 
+-- Physical-Layer-Impairement Aware Routing and Spectrum Assignment in Flexiable Optical Networks 
 -- Co-advising with Prof. Shilin Xiao (SJTU)
 
 - Mayeul Mathias (Oct. 2014- Jan. 2021, MESR + ANR)
@@ -54,15 +54,15 @@ Tel: +33 (0)3 20 43 64 43;  Fax: +33 (0)3 20 33 55 77
 -- Recommendation Systems for Personalized City Tours: Natural Language Processing and Routing Optimization 
 -- Now Research Engineer on network virtulization  at Ekinops, Sofia Antipolis, France
 
--  Yuexiu Xing (Sept. 2019-Sept. 2020, PHC Cai Yuanpei)
+-  Yuexiu Xing (Sept. 2019 - Sept. 2020, PHC Cai Yuanpei)
 -- PhD degree of Southeast University (China)
--- Security for IoTs (Intelligent Cane)
+-- IoT-based Intelligent Cane and user identification
 -- Co-advising with Prof. Aiqun Hu (SEU), and Ting Wang (ESIEE Paris/Univ. Gustave Eiffel)
 -- Now Assistant Professor at Nanjing University of Post and Telecommunications, Nanjing, China
 
 -  Jiabao Yu (Sept. 2018-June. 2020, Campus France Eiffel and PHC Cai Yuanpei)
 -- PhD degree of Southeast University (China)
--- Enhancing Physical Layer Security in Communication Networks 
+-- Radio Frequency Fingerprinting for IoTs
 -- Co-advising with Prof. Aiqun Hu (SEU)
 -- Now permanent researcher at Purple Mountain Research Center, Nanjing, China
 
@@ -71,7 +71,7 @@ Tel: +33 (0)3 20 43 64 43;  Fax: +33 (0)3 20 33 55 77
 -- PhD degree of the Univ. of Avignon (France)
 -- Co-advising with Prof. Yaojun Chen (NJU) and Asso. Prof. Juan-Manuel Torres (MCF-HDR, UAPV)
 -- Approximation Algorithms Design and Analysis in Elastic Optical Networks (EONs)
--- Research engineer at Huawei Research, China (2018)
+#-- Research engineer at Huawei Research, China (2018)
 -- Now prediction research engineer at E-Fund Management, Ltd., Shanghai China
 
 - Amine Ait Ouahmed (Oct. 2014-Oct. 2018, PACA Regional project)
@@ -96,7 +96,7 @@ Tel: +33 (0)3 20 43 64 43;  Fax: +33 (0)3 20 33 55 77
 - Min Ju (Sept. 2014- Jan. 2018, Campus France Eiffel  \+ CSC   \+ Perdiguier scholarship of UAPV)
 -- PhD. degree of the University of Avignon (France)
 -- Co-advising with Prof. Shilin Xiao (SJTU) and Asso. Prof. Juan-Manuel Torres (MCF-HDR, UAPV)
--- Routing and Protection in Elastic Optical Networks
+-- Routing and Failure Protection in Elastic Optical Networks
 -- (2018-2019) Post-doc at the I3S lab of the University of Nice, France
 -- (2019-2020)) permanent researcher at Huawei Wireless Research Center, Shanghai, China
 -- (2021-) Assistant professor Nanjing Audit University, Nanjing, China
@@ -136,12 +136,11 @@ Tecnologicas (IPT), Sao Paulo, Brazil
 
 == Research Enginners and Master 2 Research Interns
 
-- Lounes Meddahi  (L3 Research Intern at IMT Nord Europe, Jun.-Aug. 2022): Blockchain
--- Co-advised with Ahmed Meddahi
+##- Lounes Meddahi  (L3 Research Intern at IMT Nord Europe, Jun.-Aug. 2022): Blockchain
+##-- Co-advised with Ahmed Meddahi
 
-- Issam Sanjakdar  (Master 2 Intern at IMT Lille Douai, Apr.-Sept. 2021): Secure and resilient Network function Chainning 
+- Issam Sanjakdar  (Master 2 Intern at IMT Lille Douai, Apr.-Sept. 2021): Resilient Network function Chainning 
 -- Co-advised with Ahmed Meddahi
-
 
 - Sixu Cai (Master 2 Intern at ISEP, Feb.-Sept. 2020): Disaster-Resilience for Network function virtualization and Inter-Datacenter Networks
 -- Now research engineer in China Telecom
